@@ -18,9 +18,12 @@ Projeto que exibe uma animação de um coração pulsante desenvolvido com **HTM
 # Estrutura do Projeto
 
 pulsing-heart/
-├── index.html     # Arquivo principal
-├── style.css      # Estilização e animação
-└── README.md      # Documentação
+
+├── index.html        # Arquivo principal
+
+├── style.css         # Estilização e animação
+
+└── README.md         # Documentação
 
 🌟 Demonstração
 Abra o arquivo index.html para visualizar o coração pulsante animado. 
