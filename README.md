@@ -1,12 +1,11 @@
 # Pulsing Heart ❤️
 
-Projeto que exibe uma animação de um coração pulsante desenvolvido com **HTML**, **CSS** e **JavaScript**. Ele é ideal para aprendizado ou como uma pequena demonstração de animação baseada em keyframes.
+Projeto que exibe uma animação de um coração pulsante desenvolvido com **HTML** e **CSS**. Ele é ideal para aprendizado ou como uma pequena demonstração de animação baseada em keyframes.
 
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**: Estrutura da página.
 - **CSS3**: Estilização e animação.
-- **JavaScript**: Interação (se aplicável).
 
 ## 🚀 Como Executar
 
@@ -19,11 +18,11 @@ Projeto que exibe uma animação de um coração pulsante desenvolvido com **HTM
 
 pulsing-heart/
 
-├── index.html        # Arquivo principal
+├── index.html  **Arquivo principal**
 
-├── style.css         # Estilização e animação
+├── style.css   **Estilização e animação**
 
-└── README.md         # Documentação
+└── README.md   **Documentação**
 
 🌟 Demonstração
 Abra o arquivo index.html para visualizar o coração pulsante animado. 
